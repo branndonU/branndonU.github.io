@@ -32,5 +32,4 @@ The `EmployeeException` class defines a custom exception that can be thrown in t
 
 Together, these three codes create a system for managing employee data with input validation and custom exception handling. It provides an essential foundation for handling employee records within an HR context.
 
-Link to the files -- 
-https://drive.google.com/drive/folders/1O9qXPUtMHox9auRxBfWpW5Xm5FtVrxtt?usp=drive_link 
+
