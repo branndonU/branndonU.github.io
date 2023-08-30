@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
-title: "Employee.java"
+image: img/captureCode.png
+title: "HR Menu"
 date: 2023-03-23
 published: true
 labels:
@@ -10,12 +10,6 @@ labels:
   - Java
 summary: "In my spring 2023 semester, I had to make a User Menu for an HR Employee Database."
 ---
-
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
 
 **Code 1: EmployeeManager**
 This Java program represents a command-line application for managing an HR employee database. It provides a user menu for performing various actions related to employee information, including adding and removing employees, printing employees with specific salary criteria, and printing all employees.
