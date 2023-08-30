@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/captureCode.png
+image: img/Employee.jpg
 title: "HR Menu"
 date: 2023-03-23
 published: true
@@ -32,5 +32,5 @@ The `EmployeeException` class defines a custom exception that can be thrown in t
 
 Together, these three codes create a system for managing employee data with input validation and custom exception handling. It provides an essential foundation for handling employee records within an HR context.
 
-Below are links to the files. 
+Link to the files -- 
 https://drive.google.com/drive/folders/1O9qXPUtMHox9auRxBfWpW5Xm5FtVrxtt?usp=drive_link 
