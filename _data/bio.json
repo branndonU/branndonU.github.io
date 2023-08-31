@@ -11,16 +11,13 @@
     "profiles": [
       { "network": "github", "username": "branndonU", "url": "http://github.com/branndonU" },
       { "network": "linkedin", "username": "BrandonUnderwood", "url": "https://www.linkedin.com/in/brandon-underwood-438a18289/" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "bran.don.u", "url": "https://www.instagram.com/bran.don.u/" }
     ]
   },
   "interests": [
     { "name": "Military Intelligence" },
     { "name": "Cars" },
-    { "name": "Software Engineering" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" }
   ],
   "skills": [
     {
