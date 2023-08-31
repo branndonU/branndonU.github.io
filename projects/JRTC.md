@@ -8,7 +8,7 @@ published: true
 labels:
   - JRTC
   - Military Training
-summary: 
+summary: A look into an experience I had over the Summer of 2023
 ---
 Recently, I went to Louisiana in July 2023 as an E-4 SPC. In JRTC, my Hawaii Army National Guard unit was sent to FT. Polk. We all are expected to work on our MOS and other tasks that are assigned to us. My MOS being in the S-2 section of Intelligence required me to work closely with my OIC and prepare products to show to our BN Commander daily. We moved into the Box about two weeks into our time there. The Box is the simulated area in FT. Polk, which we slept out in for two weeks. If I had to describe JRTC in more detail, I would say... 
 
