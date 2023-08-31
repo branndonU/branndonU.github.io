@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/fortpolk.jpg
 title: "HING JRTC"
 date: 2023-02-28
 published: true
