@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/fortpolk.jpg
 title: "HING JRTC"
-date: 2023-02-28
+date: 2023-07-18
 published: true
 labels:
   - JRTC
