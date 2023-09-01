@@ -8,8 +8,8 @@
 :root {
   --tf-blue1: #001f3f; /* Navy Blue */
   --tf-blue2: #1b6fa9;
-  --tf-blue3: #2f8ed0;
-  --tf-blue4: #001f3f;
+  --tf-blue3: #1b6fa9;
+  --tf-blue4: #1b6fa9;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-blue1);
   --tf-pill-bg: var(--tf-blue3);
