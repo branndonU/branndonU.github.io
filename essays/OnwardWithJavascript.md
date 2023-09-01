@@ -8,8 +8,6 @@ labels:
   - Software Engineering
   - School
 ---
-Brandon Underwood
-Hopes for Class
 
   In 3 paragraphs, I'd like to talk about my interest in Software Engineering and what skills and experience I hope to have. My interest in software engineering stems from an early fondness for games. I did want to be a game designer initially, but I decided against that as I went for a more basic route into general software engineering. I grew up playing games mostly on console but ended up on PC around my first year of high school. At the time, I hadn't thought about doing any ICS-type classes that were offered. My plans still needed to be official. As I continued using a computer daily, I got more accustomed to it, and towards the end of my high school time, I was deciding my major for when I got out of basic combat training and AIT in the military. I looked at the vast amount of majors, and what became most interesting to me was Computer Science. 
 
