@@ -1,4 +1,4 @@
-/* Custom Navy Blue, Grey, and Dark Blue Theme */
+/* Custom Black, Grey, and Dark Blue Theme */
 
 /* Use Open Sans as the default font. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
@@ -6,14 +6,14 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-blue1: #001f3f; /* Navy Blue */
+  --tf-blue1: #076db3; /* Dark Blue */
   --tf-blue2: #1b6fa9;
-  --tf-blue3: #1b6fa9;
-  --tf-blue4: #1b6fa9;
+  --tf-blue3: #2f8ed0;
+  --tf-blue4: #bde3f0;
   --bs-font-sans-serif: "Open Sans", sans-serif;
-  --bs-link-color: var(--tf-blue2);
+  --bs-link-color: var(--tf-blue1);
   --tf-pill-bg: var(--tf-blue3);
-  --tf-icon-fill: var(--tf-blue2);
+  --tf-icon-fill: var(--tf-blue1);
   --tf-icon-hover: var(--tf-blue3);
   --tf-page-bg-color: #1d1d1d; /* Black */
   --tf-footer-bg-color: #2f2f2f; /* Grey */
@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5 {
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-blue2);
+  fill: var(--tf-blue1);
   height: 1.5em;
   vertical-align: middle;
   width: 1.5em;
@@ -48,7 +48,7 @@ a {
 }
 
 .rounded-circle {
-  border-color: var(--tf-blue2);
+  border-color: var(--tf-blue1);
   border-style: solid;
   border-width: 1px;
 }
