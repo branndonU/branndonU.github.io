@@ -1,0 +1,31 @@
+/* Use Ubuntu as the default sans serif font. */
+@import url("https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700|Source+Code+Pro:300,400,500,700");
+
+/* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
+:root {
+  --darkgray: rgb(40, 40, 40); /* Adjusted to black */
+  --mediumdarkgray: rgb(70, 70, 70); /* Adjusted to a darker gray */
+  --gray: rgb(120, 120, 120); /* Adjusted to a lighter gray */
+  --lightgray: rgb(200, 200, 200); /* Adjusted to a lighter gray */
+  --aqua: rgb(93, 228, 198);
+  --babyblue: rgb(162, 200, 239);
+  --lightpurple: rgb(123, 71, 127);
+  --skyblue: rgb(175, 240, 251);
+  --bs-font-sans-serif: "Ubuntu", geneva;
+  --bs-link-color: var(--bs-blue);
+  --tf-pill-bg: var(--bs-gray);
+  --tf-icon-fill: var(--aqua);
+  --tf-page-bg-color: var(--darkgray);
+  --tf-footer-bg-color: var(--bs-gray-200);
+  --tf-projects-bg-color: var(--mediumdarkgray);
+}
+
+body {
+  color: var(--lightgray);
+}
+
+h1, h2, h3, h4, h5 {
+  color: var(--skyblue);
+}
+
+/* Rest of your CSS rules... */
