@@ -11,9 +11,9 @@
   --tf-blue3: #1b6fa9;
   --tf-blue4: #1b6fa9;
   --bs-font-sans-serif: "Open Sans", sans-serif;
-  --bs-link-color: var(--tf-blue1);
+  --bs-link-color: var(--tf-blue2);
   --tf-pill-bg: var(--tf-blue3);
-  --tf-icon-fill: var(--tf-blue1);
+  --tf-icon-fill: var(--tf-blue2);
   --tf-icon-hover: var(--tf-blue3);
   --tf-page-bg-color: #1d1d1d; /* Black */
   --tf-footer-bg-color: #2f2f2f; /* Grey */
@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5 {
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-blue1);
+  fill: var(--tf-blue2);
   height: 1.5em;
   vertical-align: middle;
   width: 1.5em;
@@ -48,7 +48,7 @@ a {
 }
 
 .rounded-circle {
-  border-color: var(--tf-blue1);
+  border-color: var(--tf-blue2);
   border-style: solid;
   border-width: 1px;
 }
