@@ -1,4 +1,4 @@
-/* Skyblue Theme: modifies the default theme to use blue in various places. */
+/* Custom Black, Grey, and Dark Blue Theme */
 
 /* Use Open Sans as the default font. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
@@ -6,7 +6,7 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-blue1: #076db3;
+  --tf-blue1: #076db3; /* Dark Blue */
   --tf-blue2: #1b6fa9;
   --tf-blue3: #2f8ed0;
   --tf-blue4: #bde3f0;
@@ -15,12 +15,16 @@
   --tf-pill-bg: var(--tf-blue3);
   --tf-icon-fill: var(--tf-blue1);
   --tf-icon-hover: var(--tf-blue3);
-  --tf-page-bg-color: var(--bs-white);
-  --tf-footer-bg-color: var(--tf-blue4);
-  --tf-projects-bg-color: var(--tf-blue4);
+  --tf-page-bg-color: #1d1d1d; /* Black */
+  --tf-footer-bg-color: #2f2f2f; /* Grey */
+  --tf-projects-bg-color: #2f2f2f; /* Grey */
 }
 
-h1,h2,h3,h4,h5 {
+body {
+  color: white; /* Adjusted text color for better contrast */
+}
+
+h1, h2, h3, h4, h5 {
   color: var(--tf-blue1);
   font-family: Rubik;
 }
@@ -30,7 +34,7 @@ h1,h2,h3,h4,h5 {
   display: inline-block;
   fill: var(--tf-blue1);
   height: 1.5em;
-  vertical-align: -.1em;
+  vertical-align: middle;
   width: 1.5em;
   transition: 0.2s;
 }
