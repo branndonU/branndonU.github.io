@@ -1,4 +1,4 @@
-/* Custom Black, Grey, and Dark Blue Theme */
+/* Custom Navy Blue, Grey, and Dark Blue Theme */
 
 /* Use Open Sans as the default font. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
@@ -6,7 +6,7 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-blue1: #076db3; /* Dark Blue */
+  --tf-blue1: #001f3f; /* Navy Blue */
   --tf-blue2: #1b6fa9;
   --tf-blue3: #2f8ed0;
   --tf-blue4: #bde3f0;
