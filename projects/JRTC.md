@@ -1,20 +1,26 @@
 ---
 layout: project
 type: project
-image: img/fortpolk.jpg
-title: "HING JRTC"
-date: 2023-07-18
+image: img/Desktop.jpg
+title: "Building Computers"
+date: 2021-02-01
 published: true
 labels:
-  - JRTC
-  - Military Training
-summary: A look into an experience I had over the Summer of 2023
+  - PC Building
+  - Hardware
+summary: I built my own PC
 ---
-Recently, I went to Louisiana in July 2023 as an E-4 SPC. In JRTC, my Hawaii Army National Guard unit was sent to FT. Polk. We all are expected to work on our MOS and other tasks that are assigned to us. My MOS being in the S-2 section of Intelligence required me to work closely with my OIC and prepare products to show to our BN Commander daily. We moved into the Box about two weeks into our time there. The Box is the simulated area in FT. Polk, which we slept out in for two weeks. If I had to describe JRTC in more detail, I would say... 
+At the end of my high school senior year, I put together a Personal Computer. To this day, I have worked on 6 computers for my family and 2 friends. I had used a prebuilt previously that I wasn't too happy with and wanted to change that. Two of my friends had already done this, and I was inspired. I taught myself online from mostly LinusTT and dove into picking and choosing. The computer I made was overkill, and that's how I wanted it to be. I used a very unheard-of case from Lian Li. Doing this taught me how a computer is connected behind the scenes, and it does help to know this when it comes to problems using said hardware. I can deduce what may be lacking and or needs to be better for some desired outcomes for my friends/family. I now understand how hardware comes together and what it can do for a computer. 
 
-The Joint Readiness Training Center (JRTC) is a high-tech practice ground for the US military at Fort Polk, Louisiana. It's all about helping different parts of the military, even international teams, learn to work together better by simulating real battles and emergencies. JRTC sets up situations that feel like the real deal, using excellent technology and tactics that soldiers might use in modern warfare.
+<div class="text-center p-4">
+  <img width="500px" height="500px" src="../img/IMG_9039" class="img-thumbnail" >
+  <img width="500px" height="500px" src="../img/IMG_7615" class="img-thumbnail" >
 
-JRTC's primary goals are to ensure military units are ready for challenging situations and can cooperate smoothly. They create scenarios challenging soldiers' decision-making and leadership skills, like dealing with complex urban warfare or unexpected dangers. At the center, soldiers from different military branches learn to team up effectively, ensuring everyone is prepared and can work together when actual missions come around.
+ 
+</div>
+
+
+
 
 
 
