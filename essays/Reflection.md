@@ -13,7 +13,7 @@ labels:
 <div>
   <b>Introduction</b>
   <p>
-    Imagine a place where software engineers can come together and create opportunities for people to <a href="#">ask, answer, and learn from each other</a>, sharing knowledge. This exciting idea we can call effective communication fuels success and its found within Stack Overflow. For software engineers, asking questions becomes common, helping and working as a team to be better for each other. We'll draw inspiration from Eric Raymond's timeless wisdom in his essay, "<b>How to Ask Questions the Smart Way</b>," to explore the importance of effective communication.
+    Imagine a place where software engineers can come together and create opportunities for people to ask, answer, and learn from each other</a>, sharing knowledge. This exciting idea we can call effective communication fuels success and its found within Stack Overflow. For software engineers, asking questions becomes common, helping and working as a team to be better for each other. We'll draw inspiration from Eric Raymond's timeless wisdom in his essay, "<b>How to Ask Questions the Smart Way</b>," to explore the importance of effective communication.
   </p>
 </div>
 
