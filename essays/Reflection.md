@@ -27,9 +27,11 @@ In this question, he asks why his desired nav bar appearance won't appear correc
 
 An example of a smart question would be this:
 <a href="https://stackoverflow.com/questions/77057313/unable-to-obtain-the-locales-file-content-when-using-multiple-files-for-same-lan">https://stackoverflow.com/questions/77057313/unable-to-obtain-the-locales-file-content-when-using-multiple-files-for-same-lan</a>
+
 In the question, they ask clearly and concisely about their issue. They provide relevant content by mentioning the tools and technologies they are utilizing. This does help anyone who can answer to understand the scope of the subject better. They provided snippets of their code on the question showing the work they have done so far and have provided a particular question requiring a lot of effort and thought to figure it out. 
 
 <b>Conclusion</b>
+
 From this, we can take away that asking the right questions is essential when taking someone's time. Someone trying to give you feedback should be faced with an intelligent question. So you can walk away learning and understanding what work you have done better and how to help someone with a challenging issue in the future.
 
 <div class="text-center p-4">
