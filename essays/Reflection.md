@@ -35,11 +35,11 @@ labels:
   <b>Smart Question and Not-so-smart Question:</b>
   <p>
     An example of a not-so-smart <a href="https://stackoverflow.com/questions/77057180/my-navbar-wont-show-at-the-top-of-the-screen">question</a> would be this: 
-    In this question, he asks why his desired nav bar appearance won't appear correctly. A simple line in the html code closes </nav> too early. This <a href="https://stackoverflow.com/questions/77057180/my-navbar-wont-show-at-the-top-of-the-screen">question</a> only required a little attention or effort to answer after looking over it quickly and noticing that they closed the nav in two instances.
+    In this question, he asks why his desired nav bar appearance won't appear correctly. A simple line in the html code closes </nav> too early. This question only required a little attention or effort to answer after looking over it quickly and noticing that they closed the nav in two instances.
   </p>
   <p>
-    An example of a smart <a href="https://stackoverflow.com/questions/77057313/unable-to-obtain-the-locales-file-content-when-using-multiple-files-for-same-lan">question</a> would be this:
-    In the <a href="https://stackoverflow.com/questions/77057313/unable-to-obtain-the-locales-file-content-when-using-multiple-files-for-same-lan">question</a>, they ask clearly and concisely about their issue. They provide relevant content by mentioning the tools and technologies they are utilizing. This does help anyone who can answer to understand the scope of the subject better. They provided snippets of their code on the <a href="https://stackoverflow.com/questions/77057313/unable-to-obtain-the-locales-file-content-when-using-multiple-files-for-same-lan">question</a> showing the work they have done so far and have provided a particular <a href="https://stackoverflow.com/questions/77057313/unable-to-obtain-the-locales-file-content-when-using-multiple-files-for-same-lan">question</a> requiring a lot of effort and thought to figure it out. 
+    An example of a smart question would be this:
+    In the <a href="https://stackoverflow.com/questions/77057313/unable-to-obtain-the-locales-file-content-when-using-multiple-files-for-same-lan">question</a>, they ask clearly and concisely about their issue. They provide relevant content by mentioning the tools and technologies they are utilizing. This does help anyone who can answer to understand the scope of the subject better. They provided snippets of their code on the question showing the work they have done so far and have provided a particular question requiring a lot of effort and thought to figure it out. 
   </p>
 </div>
 
