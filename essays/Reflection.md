@@ -23,6 +23,7 @@ Contrastingly, before discussing "not smart" questions seeking assistance. A que
 
 An example of a not-so-smart question would be this: 
 <a href="https://stackoverflow.com/questions/77057180/my-navbar-wont-show-at-the-top-of-the-screen">https://stackoverflow.com/questions/77057180/my-navbar-wont-show-at-the-top-of-the-screen</a>
+
 In this question, he asks why his desired nav bar appearance won't appear correctly. A simple line in the html code closes </nav> too early. This question only required a little attention or effort to answer after looking over it quickly and noticing that they closed the nav in two instances.
 
 An example of a smart question would be this:
