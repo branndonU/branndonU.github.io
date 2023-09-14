@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Onward With Javascript"
+title: "Onward With Coding"
 date: 2023-08-29
 published: true
 labels:
