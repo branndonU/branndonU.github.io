@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/IMG_5648.jpg
+image: img/IMG_8790.jpg
 title: "Catio"
 date: 2023-05-14
 published: true
