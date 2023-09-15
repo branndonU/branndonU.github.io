@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Employee.jpg
+image: img/IMG_8797.jpg
 title: "HR Menu"
 date: 2023-03-23
 published: true
