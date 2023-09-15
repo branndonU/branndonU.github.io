@@ -14,7 +14,7 @@ At the end of my high school senior year, I put together a Personal Computer. To
 
 <div class="text-center p-4">
   <img width="400px" src="../img/IMG_9039.jpg" class="img-thumbnail" >
-  <img width="400px" src="../img/IMG_7615.jpg" class="img-thumbnail" >
+  <img width="400px" src="../img/IMG_7615R.jpg" class="img-thumbnail" >
 </div>
 
 
