@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Desktop.jpg
+image: img/image0.jpg
 title: "Building Computers"
 date: 2021-02-01
 published: true
