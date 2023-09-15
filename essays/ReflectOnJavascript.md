@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "New to Javascript"
+title: "New to JavaScript"
 date: 2023-08-29
 published: true
 labels:
