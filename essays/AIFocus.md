@@ -18,15 +18,15 @@ labels:
   </div>
   <div>
     <b>II. Personal Experience with AI</b>
-    <p>Experience WODs (e.g., E18): My experience with GPT, particularly for syntax errors in underscore, has been beneficial. It often reaffirms what I already suspect, offering alternative solutions that, while not always perfect, provide a valuable starting point.</p>
-    <p>In-class Practice WODs: The AI's ability to sequentially understand and guide through replicating a site was impressive, showcasing its potential in structured learning environments.</p>
-    <p>In-class WODs: The AI's effectiveness in in-class WODs seemed more hit-or-miss, reflecting its limitations in adapting to dynamic classroom scenarios.</p>
-    <p>Essays: AI proved useful in enhancing essays, providing additional perspectives and aiding in elaboration, which is particularly helpful in meeting word counts.</p>
-    <p>Final Project: For the final project, AI was primarily employed for debugging and resolving ESLint errors.</p>
-    <p>Learning a Concept / Tutorial: While I haven't used AI for this purpose, preferring provided videos, AI’s potential for on-the-spot teaching is acknowledged.</p>
-    <p>Answering a Question in Class or in Discord: [Not applicable as I haven't engaged in this activity.]</p>
-    <p>Asking or Answering a Smart-Question: [Not applicable as I haven't engaged in this activity.]</p>
-    <p>Coding Example: <br>
+    <p><b>1.</b> Experience WODs (e.g., E18): My experience with GPT, particularly for syntax errors in underscore, has been beneficial. It often reaffirms what I already suspect, offering alternative solutions that, while not always perfect, provide a valuable starting point.</p>
+    <p><b>2.</b> In-class Practice WODs: The AI's ability to sequentially understand and guide through replicating a site was impressive, showcasing its potential in structured learning environments.</p>
+    <p><b>3.</b> In-class WODs: The AI's effectiveness in in-class WODs seemed more hit-or-miss, reflecting its limitations in adapting to dynamic classroom scenarios.</p>
+    <p><b>4.</b> Essays: AI proved useful in enhancing essays, providing additional perspectives and aiding in elaboration, which is particularly helpful in meeting word counts.</p>
+    <p><b>5.</b> Final Project: For the final project, AI was primarily employed for debugging and resolving ESLint errors.</p>
+    <p><b>6.</b> Learning a Concept / Tutorial: While I haven't used AI for this purpose, preferring provided videos, AI’s potential for on-the-spot teaching is acknowledged.</p>
+    <p><b>7.</b> Answering a Question in Class or in Discord: [Not applicable as I haven't engaged in this activity.]</p>
+    <p><b>8.</b> Asking or Answering a Smart-Question: [Not applicable as I haven't engaged in this activity.]</p>
+    <p><b>9.</b> Coding Example:<br>
     <code>// Import the Underscore library<br>
     const _ = require('underscore');<br>
     <br>
@@ -41,12 +41,13 @@ labels:
     const names = _.pluck(people, 'name');<br>
     <br>
     console.log(names); // Output: ['Alice', 'Bob', 'Carol']</code></p>
-    <p>Explaining Code: AI's explanations were generally straightforward and accessible, aiding in comprehension.</p>
-    <p>Writing Code: AI can write code very well and it knows it works in the way it intends for you.</p>
-    <p>Documenting Code: [AI writes comments that are clear and concise.]</p>
-    <p>Quality Assurance: AI was a reliable resource for troubleshooting and debugging, often prompting re-evaluation of my code.</p>
-    <p>Other Uses in ICS 314: AI was helpful in brainstorming and listing ideas when needed.</p>
-  </div>
+    <p><b>10.</b> Explaining Code: AI's explanations were generally straightforward and accessible, aiding in comprehension.</p>
+    <p><b>11.</b> Writing Code: AI can write code very well and it knows it works in the way it intends for you.</p>
+    <p><b>12.</b> Documenting Code: [AI writes comments that are clear and concise.]</p>
+    <p><b>13.</b> Quality Assurance: AI was a reliable resource for troubleshooting and debugging, often prompting a re-evaluation of my code.</p>
+    <p><b>14.</b> Other Uses in ICS 314: AI was helpful in brainstorming and listing ideas when needed.</p>
+</div>
+
   <div>
     <b>III. Impact on Learning and Understanding</b>
     <p>AI tools have positively influenced my comprehension, problem-solving, and skill development in software engineering. They provide easy-to-understand explanations, enhancing understanding, albeit with a caveat of overreliance.</p>
