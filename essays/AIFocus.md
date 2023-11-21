@@ -66,6 +66,6 @@ labels:
   
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/javascript-javascript.jpg" class="img-thumbnail" >
+  <img width="300px" src="../img/cayAI.PNG" class="img-thumbnail" >
 </div>
 
