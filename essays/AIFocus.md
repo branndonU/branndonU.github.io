@@ -39,7 +39,7 @@ labels:
     // Using _.pluck to extract all names<br>
     const names = _.pluck(people, 'name');<br>
     <br>
-    console.log(names); // Output: ['Alice', 'Bob', 'Carol']</code></p>
+    console.log(names); // Output: ['Keeghan', 'Ruka', 'Winter']</code></p>
     <p><b>10.</b> Explaining Code: AI's explanations were generally straightforward and accessible, aiding in comprehension.</p>
     <p><b>11.</b> Writing Code: AI can write code very well and it knows it works in the way it intends for you.</p>
     <p><b>12.</b> Documenting Code: AI writes comments that are clear and concise.</p>
