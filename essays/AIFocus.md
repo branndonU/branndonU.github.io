@@ -63,7 +63,7 @@ labels:
   <div>
     <b>VI. Comparative Analysis</b>
     <p>When compared to traditional teaching methods, AI can offer more simplified explanations, like breaking down a math equation. It keeps students engaged, though the onus of knowledge retention and skill development still heavily rests on the student’s active involvement.</p>
-  </
+  
 
 <div class="text-center p-4">
   <img width="300px" src="../img/javascript-javascript.jpg" class="img-thumbnail" >
