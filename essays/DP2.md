@@ -27,3 +27,7 @@ labels:
 <b>Mastering the Game of Code</b>
 
 <p>As I continue my adventure in the vast and intricate world of software development, I look forward to unlocking new 'levels' and 'abilities' by discovering and applying more design patterns. Much like a player in Destiny 2, who masters different aspects of the game to become more proficient, I aim to master various design patterns to enhance my coding skills. In the end, the art of software development, much like the art of gaming, is about strategizing, adapting, and employing the proper 'game mechanics' – and design patterns are the key to winning this game.</p>
+
+<div class="text-center p-4">
+  <img width="300px" src="../img/Carry.PNG" class="img-thumbnail" >
+</div>
