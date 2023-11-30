@@ -50,42 +50,29 @@ public class Configuration {
 <pre style="color: red;">
 // Observer Interface
 public interface Observer {
-    void update(String eventData);
+    void update();
 }
 
 // Concrete Observer
-public class EventListener implements Observer {
-    @Override
-    public void update(String eventData) {
-        System.out.println("Received event: " + eventData);
-        // Perform action based on the event
+public class DataObserver implements Observer {
+    public void update() {
+        // Respond to notification
     }
 }
 
-// Subject
-public class EventPublisher {
+// Observable Subject
+public class DataSubject {
     private List&lt;Observer&gt; observers = new ArrayList&lt;&gt;();
 
-    public void addObserver(Observer observer) {
+    public void attach(Observer observer) {
         observers.add(observer);
     }
 
-    public void removeObserver(Observer observer) {
-        observers.remove(observer);
-    }
-
-    public void notifyObservers(String eventData) {
+    public void notifyObservers() {
         for (Observer observer : observers) {
-            observer.update(eventData);
+            observer.update();
         }
     }
-
-    // Method to publish events
-    public void publishEvent(String eventData) {
-        notifyObservers(eventData);
-    }
-
-    // ... other methods related to event publication ...
 }
 </pre>
 
