@@ -18,7 +18,76 @@ labels:
 
 <p>Take the Singleton pattern, for instance. It's comparable to a unique, powerful weapon in Destiny 2, like an exotic weapon that is so powerful only one can be held at a time in your loadout. This pattern ensures that a class has only one instance across the entire application, much like how a game might restrict a potent item to a single player to maintain balance. In a possible project, I would call it 'CodeQuest,' employing the Singleton pattern, which would be crucial for managing a central configuration system. It would be the 'exotic weapon' of the code, offering a unique and efficient solution that was pivotal to the application's performance.</p>
 
+<pre style="color: red;">
+// Singleton Class
+public class Configuration {
+    // The sole instance of the class
+    private static Configuration instance = null;
+
+    // Private constructor so no instances can be made outside this class
+    private Configuration() {}
+
+    // Public method to get the instance
+    public static Configuration getInstance() {
+        if (instance == null) {
+            // if instance is null, initialize
+            instance = new Configuration();
+        }
+        return instance;
+    }
+
+    // Method to get configuration value
+    public String getConfigValue(String key) {
+        // return configuration value for key
+    }
+
+    // ... other configuration methods ...
+}
+</pre>
+
 <p>On the other hand, the Observer pattern mirrors the dynamic and responsive environment of a game like Destiny 2, where actions in one part of the game world can trigger reactions elsewhere. Just as in-game events can cause changes in the game environment or player abilities, the Observer pattern enables objects in a software application to automatically update their state in response to changes in other objects. If I were to do a project where I implemented a live dashboard, this pattern would be instrumental in ensuring that updates in data were immediately reflected across various components, akin to how a player's actions in one part of the game can have cascading effects throughout the game world.</p>
+
+<pre style="color: red;">
+// Observer Interface
+public interface Observer {
+    void update(String eventData);
+}
+
+// Concrete Observer
+public class EventListener implements Observer {
+    @Override
+    public void update(String eventData) {
+        System.out.println("Received event: " + eventData);
+        // Perform action based on the event
+    }
+}
+
+// Subject
+public class EventPublisher {
+    private List&lt;Observer&gt; observers = new ArrayList&lt;&gt;();
+
+    public void addObserver(Observer observer) {
+        observers.add(observer);
+    }
+
+    public void removeObserver(Observer observer) {
+        observers.remove(observer);
+    }
+
+    public void notifyObservers(String eventData) {
+        for (Observer observer : observers) {
+            observer.update(eventData);
+        }
+    }
+
+    // Method to publish events
+    public void publishEvent(String eventData) {
+        notifyObservers(eventData);
+    }
+
+    // ... other methods related to event publication ...
+}
+</pre>
 
 <b>Questing Through Code</b>
 
