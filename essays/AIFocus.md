@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Everybody loves a bad idea when it works"
 date: 2023-11-20
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
