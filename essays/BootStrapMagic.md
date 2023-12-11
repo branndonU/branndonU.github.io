@@ -12,7 +12,6 @@ labels:
   - BootStrap
 ---
 <div>
-    <b>Bootstrap Magic: Transforming Web Design</b>
     <p><b>A Journey from Basics to Brilliance</b><br>
     The first time I assembled a website using HTML and CSS, it felt akin to piecing together a meticulous jigsaw puzzle. Each line of code was a puzzle piece that needed to slot perfectly into place. The process was pure, undeniably challenging, and began an enlightening journey.</p>
 </div>
