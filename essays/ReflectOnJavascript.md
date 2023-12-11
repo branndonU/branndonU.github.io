@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "New to JavaScript"
 date: 2023-08-29
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
