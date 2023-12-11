@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Reflecting on Smart Questions"
 date: 2023-08-29
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
