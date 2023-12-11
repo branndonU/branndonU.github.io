@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Onward With Coding"
 date: 2023-08-29
-published: true
+published: false
 labels:
   - Software Engineering
   - School
