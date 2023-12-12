@@ -31,6 +31,3 @@ This course has been instrumental in broadening my perspective on software engin
 
   
 
-<div class="text-center p-4">
-  <img width="300px" src="../img/cayAI.PNG" class="img-thumbnail" >
-</div>
