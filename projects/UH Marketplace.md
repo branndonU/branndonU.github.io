@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Thumber.png
+image: img/IMG_0534.jpg
 title: "UH Marketplace"
 date: 2023-03-23
 published: true
