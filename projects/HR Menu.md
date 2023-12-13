@@ -2,34 +2,42 @@
 layout: project
 type: project
 image: img/IMG_8797.jpg
-title: "HR Menu"
+title: "UH Marketplace"
 date: 2023-03-23
 published: true
 labels:
-  - ICS 211
-  - Java
-summary: "In my spring 2023 semester, I had to make a User Menu for an HR Employee Database."
+  - Software Engineering
+  - React, Meteor, MongoDB
+  - Github
+summary: "Final Project for ICS 314"
 ---
 
-**Code 1: EmployeeManager**
-This Java program represents a command-line application for managing an HR employee database. It provides a user menu for performing various actions related to employee information, including adding and removing employees, printing employees with specific salary criteria, and printing all employees.
+<b>Introduction to UH Marketplace</b>
+<p>The UH Marketplace is an innovative online platform designed and developed through the collaborative efforts of our team, leveraging the skills honed in our ICS 314 class and the principles of agile project management. The core aim of UH Marketplace is to provide a virtual space where students can conveniently buy and sell items within the University of Hawaii community. This project serves as a practical application of our coursework, embodying the spirit of entrepreneurship among students.</p>
 
-**Code 2: Employee**
-The `Employee` class models an employee object with attributes such as employee number, salary, and name. It includes mutator and accessor methods for setting and getting these attributes, with validation checks to ensure valid inputs. The class also defines a `toString` method to provide a formatted representation of the employee's details.
+<b>Project Workflow and Contribution</b>
+<p>In crafting the UH Marketplace, we meticulously structured our workflow and task distribution by employing GitHub project boards to enhance transparency and facilitate collaboration. Our team, comprising diligent members, ensured that responsibilities were evenly shared, fostering an environment of collective effort and mutual support.</p>
 
-**Code 3: EmployeeException**
-The `EmployeeException` class defines a custom exception that can be thrown in the `Employee` class. This exception is designed to handle errors related to invalid employee input. It includes methods to set and get a custom error message associated with the exception, allowing for informative error messages to be displayed when validation conditions are not met.
+<b>Key Features and Personal Involvement</b>
+<p>My direct contributions to the UH Marketplace were multifaceted. I developed the robust 'Admin Reports' page, which allows for effective management of listings, including features such as the removal and reporting of inappropriate or fraudulent items. This page is instrumental in maintaining the integrity and trustworthiness of the marketplace.</p>
 
-**Overall Purpose:**
-1. **EmployeeManager (`Code 1`):**
-   This program serves as a user interface for managing employee records. Users can add, remove, and retrieve employee information based on specific criteria. It interacts with the `Employee` class to create and manage employee objects.
+<!-- Images can be included using the img tag, but here's a placeholder for the markdown-style image links provided. -->
+<p><i>Admin Reports Page Placeholder</i></p>
 
-2. **Employee (`Code 2`):**
-   This class defines the structure and behavior of an individual employee. It ensures that valid inputs are used for employee attributes and provides a way to represent employee details in a formatted manner.
+<p>Furthermore, I enhanced user interaction by refining the 'Login' page, ensuring a seamless and secure user experience. This page is the gateway for users to access their personalized marketplace experience, manage their listings, and engage with the community.</p>
 
-3. **EmployeeException (`Code 3`):**
-   This class defines a custom exception to handle errors in the employee program. It allows for more informative error messages to be generated and displayed when there's an issue with employee input.
+<p><i>Login Page Placeholder</i></p>
 
-Together, these three codes create a system for managing employee data with input validation and custom exception handling. It provides an essential foundation for handling employee records within an HR context.
+<b>The Landing Page Design</b>
+<p>The landing page of the UH Marketplace, which I also played a significant role in developing, is designed to be inviting and user-friendly, providing a snapshot of what new users can expect upon joining our vibrant student community.</p>
+
+<p><i>Landing Page Placeholder</i></p>
+
+<b>Reflecting on the Learning Experience</b>
+<p>The hands-on experience of developing the UH Marketplace was enriching on multiple levels. It honed my technical prowess in web development and deepened my appreciation for the meticulous planning and execution that goes into creating a user-centered digital platform. Beyond the coding skills, this project refined my abilities in leadership, initiative, and communication, underlining the multifaceted nature of software engineering. It was a tangible application of theoretical knowledge, embodying the convergence of technology and community service.</p>
+
+<b>Conclusion</b>
+<p>In conclusion, the UH Marketplace is more than just a project; it's a testament to the power of collaborative learning and the practical application of academic knowledge in solving real-world problems. It reflects our commitment to enhancing the student experience through technology, and I am proud to have contributed to this endeavor.</p>
+
 
 
