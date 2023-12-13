@@ -16,7 +16,7 @@ summary: "Final Project for ICS 314"
 <p>The UH Marketplace is an innovative online platform designed and developed through the collaborative efforts of our team, leveraging the skills honed in our ICS 314 class and the principles of agile project management. The core aim of UH Marketplace is to provide a virtual space where students can conveniently buy and sell items within the University of Hawaii community. This project serves as a practical application of our coursework, embodying the spirit of entrepreneurship among students.</p>
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/Lander.png" class="img-thumbnail" >
+  <img width="1000px" src="../img/Lander.png" class="img-thumbnail" >
 </div>
 
 <b>Project Workflow and Contribution</b>
@@ -26,13 +26,13 @@ summary: "Final Project for ICS 314"
 <p>My direct contributions to the UH Marketplace were multifaceted. I developed the robust 'Admin Reports' page, which allows for effective management of listings, including features such as the removal and reporting of inappropriate or fraudulent items. This page is instrumental in maintaining the integrity and trustworthiness of the marketplace.</p>
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/Reporter.png" class="img-thumbnail" >
+  <img width="1000px" src="../img/Reporter.png" class="img-thumbnail" >
 </div>
 
 <p>Furthermore, I enhanced user interaction by refining the 'Login' page, ensuring a seamless and secure user experience. This page is the gateway for users to access their personalized marketplace experience, manage their listings, and engage with the community.</p>
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/Logger.png" class="img-thumbnail" >
+  <img width="1000px" src="../img/Logger.png" class="img-thumbnail" >
 </div>
 
 <b>Reflecting on the Learning Experience</b>
