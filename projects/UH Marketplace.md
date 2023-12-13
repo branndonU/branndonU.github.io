@@ -21,17 +21,22 @@ summary: "Final Project for ICS 314"
 <b>Key Features and Personal Involvement</b>
 <p>My direct contributions to the UH Marketplace were multifaceted. I developed the robust 'Admin Reports' page, which allows for effective management of listings, including features such as the removal and reporting of inappropriate or fraudulent items. This page is instrumental in maintaining the integrity and trustworthiness of the marketplace.</p>
 
-<!-- Images can be included using the img tag, but here's a placeholder for the markdown-style image links provided. -->
-<p><i>Admin Reports Page Placeholder</i></p>
+<div class="text-center p-4">
+  <img width="500px" src="../img/Reporter.png" class="img-thumbnail" >
+</div>
 
 <p>Furthermore, I enhanced user interaction by refining the 'Login' page, ensuring a seamless and secure user experience. This page is the gateway for users to access their personalized marketplace experience, manage their listings, and engage with the community.</p>
 
-<p><i>Login Page Placeholder</i></p>
+<div class="text-center p-4">
+  <img width="500px" src="../img/Logger.png" class="img-thumbnail" >
+</div>
 
 <b>The Landing Page Design</b>
 <p>The landing page of the UH Marketplace, which I also played a significant role in developing, is designed to be inviting and user-friendly, providing a snapshot of what new users can expect upon joining our vibrant student community.</p>
 
-<p><i>Landing Page Placeholder</i></p>
+<div class="text-center p-4">
+  <img width="500px" src="../img/Lander.png" class="img-thumbnail" >
+</div>
 
 <b>Reflecting on the Learning Experience</b>
 <p>The hands-on experience of developing the UH Marketplace was enriching on multiple levels. It honed my technical prowess in web development and deepened my appreciation for the meticulous planning and execution that goes into creating a user-centered digital platform. Beyond the coding skills, this project refined my abilities in leadership, initiative, and communication, underlining the multifaceted nature of software engineering. It was a tangible application of theoretical knowledge, embodying the convergence of technology and community service.</p>
