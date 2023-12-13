@@ -41,5 +41,7 @@ summary: "Final Project for ICS 314"
 <b>Conclusion</b>
 <p>In conclusion, the UH Marketplace is more than just a project; it's a testament to the power of collaborative learning and the practical application of academic knowledge in solving real-world problems. It reflects our commitment to enhancing the student experience through technology, and I am proud to have contributed to this endeavor.</p>
 
+<p>Organization and Source Code: <a href="https://github.com/the-manoa-marketplace">UH Marketplace</a></p>
+
 
 
