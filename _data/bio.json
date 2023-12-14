@@ -1,0 +1,69 @@
+{
+  "basics": {
+    "name": "Brandon Underwood",
+    "label": "Student",
+    "picture": "https://github.com/branndonu.png",
+    "email": "bunder@hawaii.edu",
+    "phone": "808-294-5949",
+    "website": "https://branndonu.github.io",
+    "summary": "I am studying for a B.S in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. Whilst serving in the HING, I expect to graduate in Fall, 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "branndonU", "url": "http://github.com/branndonU" },
+      { "network": "linkedin", "username": "BrandonUnderwood", "url": "https://www.linkedin.com/in/brandon-underwood-438a18289/" },
+      { "network": "instagram", "username": "bran.don.u", "url": "https://www.instagram.com/bran.don.u/" }
+    ]
+  },
+  "interests": [
+    { "name": "Games" },
+    { "name": "Cars" },
+    { "name": "Music" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Intelligence Analysis", "Geological Mapping" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Fall, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2022-01-13",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Army National Guard",
+      "position": "All Source Intel Analyst",
+      "website": "",
+      "startDate": "2020-06-12",
+      "endDate": "Present",
+      "summary": "35F working in S2 section of the 227th BEB",
+      "highlights": [
+        "Prepare Intelligence products that are presented to the BC (Battalion Commander)"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "BN CSM Coin",
+      "date": "2022-Present",
+      "awarder": "CSM Lapitan, 227th BEB",
+      "summary": "A coin from Command Sergeant Major Lapitan for being one of the few recognized soldiers that went above and beyond in 2022's annual training for the Hawaii Army National Guard."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
