@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/Thumber2.png
 title: "UH Marketplace"
-date: 2023-03-23
+date: 2023-12-10
 published: true
 labels:
   - Software Engineering
